@@ -1,0 +1,25 @@
+_repo: The-Life-of-St.-Declan-of-Ardmore_823
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Power, P. (Patrick)
+    alias: Power, Patrick
+    birthdate: 1862
+    deathdate: 1951
+    gutenberg_agent_id: '432'
+    url: http://www.gutenberg.org/2009/agents/432
+description: ''
+gutenberg_issued: '1997-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Declan, Saint, Bishop of Ardmore, active 6th century -- Legends'
+- !lcc 'PB'
+- GITenberg
+title: The Life of St. Declan of Ardmore
+url: http://www.gutenberg.org/ebooks/823
