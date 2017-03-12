@@ -1,5 +1,5 @@
 _repo: The-Life-of-St.-Declan-of-Ardmore_823
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Power, P. (Patrick)
@@ -8,7 +8,12 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '432'
     url: http://www.gutenberg.org/2009/agents/432
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/823#The-Life-of-St.-Declan-of-Ardmore
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
 identifiers:
